@@ -1,0 +1,24 @@
+{
+  "short_name": "Finder",
+  "name": "Finder",
+  "description":"this app helps you to get ip realted information.such as gathering detailes based on the ip address.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1B2430",
+  "background_color": "#fff",
+  "icons": [ {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "64x64"
+
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+ 
+  ]
+
+  
+}
